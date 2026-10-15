@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ua.kpi.comsys.collections.LogAnalyzerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-10-15T05:14:27.945Z" hostname="HP" time="0.079">
+  <properties/>
+  <testcase name="testGetTopIpsSortingAndTieBreaking()" classname="ua.kpi.comsys.collections.LogAnalyzerTest" time="0.05"/>
+  <testcase name="testGetUniqueIpsValid()" classname="ua.kpi.comsys.collections.LogAnalyzerTest" time="0.008"/>
+  <testcase name="testGetTopIpsValidation()" classname="ua.kpi.comsys.collections.LogAnalyzerTest" time="0.005"/>
+  <testcase name="testGetUniqueIpsNullThrowsException()" classname="ua.kpi.comsys.collections.LogAnalyzerTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
